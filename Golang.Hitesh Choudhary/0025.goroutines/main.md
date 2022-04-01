@@ -1,0 +1,5 @@
+- Doing multiple tasks but not at the sam time, rather switching between one another is concurrency.
+- Parallelism is doing multiple taks at the same time.
+- Goroutines are used to achieve parallelism iin golang.
+- go routines are sometimes compared with threads but threads are managed by OS while goroutines are managed by go runtime.
+- In thread there is a fixed stack of 1MB and goroutines have a flexible stack of 2KB.
